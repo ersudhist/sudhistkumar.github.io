@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35a75278.css",
+    "main.js": "/static/js/main.2e8eb7cf.js",
+    "static/media/myntra.png": "/static/media/myntra.a9fd115d46a3877d6ea5.png",
+    "static/media/olx.png": "/static/media/olx.8250309b642f9de7f988.png",
+    "static/media/SUDHIST.pdf": "/static/media/SUDHIST.78845174a6f29d90d637.pdf",
+    "static/media/Tripvillas.JPG": "/static/media/Tripvillas.4161ec55af4bddc43e60.JPG",
+    "static/media/heliverse.png": "/static/media/heliverse.cfd0befbba60db64a1c9.png",
+    "static/media/react1.png": "/static/media/react1.0cf951a69d8e58f83f9d.png",
+    "static/media/pic.jpg": "/static/media/pic.3efc9ac8fad6600cc90c.jpg",
+    "static/media/maven.jpg": "/static/media/maven.99ab4cf4db5b7805cc19.jpg",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/java.png": "/static/media/java.6c64373d3b7415758078.png",
+    "index.html": "/index.html",
+    "main.35a75278.css.map": "/static/css/main.35a75278.css.map",
+    "main.2e8eb7cf.js.map": "/static/js/main.2e8eb7cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35a75278.css",
+    "static/js/main.2e8eb7cf.js"
+  ]
+}
