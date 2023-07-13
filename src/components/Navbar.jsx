@@ -86,7 +86,7 @@ const Navbar = () => {
         <ul>
             <li className='w-[140px] h-[60px] flex justify-between items-center ml-[-80px] hover:ml-[-10px] bg-blue-900 duration-300'>
                 <a className='flex justify-between items-center w-full text-gray-300' 
-                href='www.linkedin.com/in/sudhist-kumar'>
+                href='https://www.linkedin.com/in/sudhist-kumar/'>
                 Linkedin <FaLinkedin size={30} />
                 </a>
             </li>

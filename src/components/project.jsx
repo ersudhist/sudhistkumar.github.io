@@ -1,8 +1,6 @@
 import React from 'react'
 import Myntra from '../assets/myntra.png';
 import Olx from '../assets/olx.png';
-import Heliverse from "../assets/heliverse.png"
-import Tripvillas from "../assets/Tripvillas.JPG"
 
 const projects = [
     {
