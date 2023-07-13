@@ -1,12 +1,10 @@
 {
   "files": {
     "main.css": "/sudhistkumar.github.io/static/css/main.d5a8956b.css",
-    "main.js": "/sudhistkumar.github.io/static/js/main.2c0e29d7.js",
+    "main.js": "/sudhistkumar.github.io/static/js/main.c9591372.js",
     "static/media/myntra.png": "/sudhistkumar.github.io/static/media/myntra.a9fd115d46a3877d6ea5.png",
     "static/media/olx.png": "/sudhistkumar.github.io/static/media/olx.8250309b642f9de7f988.png",
-    "static/media/SUDHIST.pdf": "/sudhistkumar.github.io/static/media/SUDHIST.78845174a6f29d90d637.pdf",
-    "static/media/Tripvillas.JPG": "/sudhistkumar.github.io/static/media/Tripvillas.4161ec55af4bddc43e60.JPG",
-    "static/media/heliverse.png": "/sudhistkumar.github.io/static/media/heliverse.cfd0befbba60db64a1c9.png",
+    "static/media/SUDHIST.pdf": "/sudhistkumar.github.io/static/media/SUDHIST.f1ed40a0765342082eb7.pdf",
     "static/media/react1.png": "/sudhistkumar.github.io/static/media/react1.0cf951a69d8e58f83f9d.png",
     "static/media/pic.jpg": "/sudhistkumar.github.io/static/media/pic.3efc9ac8fad6600cc90c.jpg",
     "static/media/maven.jpg": "/sudhistkumar.github.io/static/media/maven.99ab4cf4db5b7805cc19.jpg",
@@ -17,10 +15,10 @@
     "static/media/java.png": "/sudhistkumar.github.io/static/media/java.6c64373d3b7415758078.png",
     "index.html": "/sudhistkumar.github.io/index.html",
     "main.d5a8956b.css.map": "/sudhistkumar.github.io/static/css/main.d5a8956b.css.map",
-    "main.2c0e29d7.js.map": "/sudhistkumar.github.io/static/js/main.2c0e29d7.js.map"
+    "main.c9591372.js.map": "/sudhistkumar.github.io/static/js/main.c9591372.js.map"
   },
   "entrypoints": [
     "static/css/main.d5a8956b.css",
-    "static/js/main.2c0e29d7.js"
+    "static/js/main.c9591372.js"
   ]
 }
