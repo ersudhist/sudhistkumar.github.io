@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sudhistkumar.github.io/static/css/main.d5a8956b.css",
-    "main.js": "/sudhistkumar.github.io/static/js/main.c9591372.js",
+    "main.js": "/sudhistkumar.github.io/static/js/main.acfc5f13.js",
     "static/media/myntra.png": "/sudhistkumar.github.io/static/media/myntra.a9fd115d46a3877d6ea5.png",
     "static/media/olx.png": "/sudhistkumar.github.io/static/media/olx.8250309b642f9de7f988.png",
     "static/media/SUDHIST.pdf": "/sudhistkumar.github.io/static/media/SUDHIST.f1ed40a0765342082eb7.pdf",
@@ -15,10 +15,10 @@
     "static/media/java.png": "/sudhistkumar.github.io/static/media/java.6c64373d3b7415758078.png",
     "index.html": "/sudhistkumar.github.io/index.html",
     "main.d5a8956b.css.map": "/sudhistkumar.github.io/static/css/main.d5a8956b.css.map",
-    "main.c9591372.js.map": "/sudhistkumar.github.io/static/js/main.c9591372.js.map"
+    "main.acfc5f13.js.map": "/sudhistkumar.github.io/static/js/main.acfc5f13.js.map"
   },
   "entrypoints": [
     "static/css/main.d5a8956b.css",
-    "static/js/main.c9591372.js"
+    "static/js/main.acfc5f13.js"
   ]
 }
