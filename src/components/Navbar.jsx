@@ -4,7 +4,6 @@ import {FaBars, FaTimesCircle,FaGithub,FaLinkedin, FaTwitter} from "react-icons/
 import {SiGmail} from 'react-icons/si'
 
 import {BsFillPersonLinesFill} from 'react-icons/bs' 
-import Logo from "../assets/logo.gif"
 import Profile from "../assets/pic.jpg"
 import {Link} from "react-scroll"
 import SUDHIST from "../assets/SUDHIST.pdf"
