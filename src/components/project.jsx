@@ -23,15 +23,15 @@ const projects = [
       repo: "https://github.com/ersudhist/-composed-linen-9715",
     },
 
-    // {
-    //   id: 3,
-    //   src: Video,
-    //   title: "Automated Student Registration System",
-    //   techStack: "Java|JDBC|MySQL",
-    //   desc: "This is a console-based web service for Automated Student Registration System.",
-    //   link: "https://drive.google.com/drive/folders/1GXRCZEriYmCH2pyUrD9Kdv85yVZrBYaj?usp=sharing",
-    //   repo: "https://github.com/ersudhist/spotless-lunch-6777/tree/main/Automated-Student-Registration-System",
-    // },
+    {
+      id: 3,
+      src: Video,
+      title: "Automated Student Registration System",
+      techStack: "Java|JDBC|MySQL",
+      desc: "This is a console-based web service for Automated Student Registration System.",
+      link: "https://drive.google.com/drive/folders/1GXRCZEriYmCH2pyUrD9Kdv85yVZrBYaj?usp=sharing",
+      repo: "https://github.com/ersudhist/spotless-lunch-6777/tree/main/Automated-Student-Registration-System",
+    },
     
 
   ];
@@ -48,19 +48,19 @@ const Project = () => {
         <div className="grid sm:grid-cols-2 md:grid-cols-2 gap-8 px-12 sm:px-0">
           {projects.map(({ id, src, link, repo, title, desc, techStack }) => (
             <div key={id} className="shadow-md shadow-gray-600 bg-black rounded-lg">
-              {/* {src.endsWith('.mp4') ? (
+              {src.endsWith('.mp4') ? (
                 <video
                   src={src}
                   className="rounded-md duration-200 hover:scale-105 h-60 w-full"
                   controls
                 />
-              ) : ( */}
+              ) : (
                 <img
                   src={src}
                   alt="projects"
                   className="rounded-md duration-200 hover:scale-105 h-60 w-full"
                 />
-             
+              )}
               <div className="text-2xl text-slate-300 text-center">{title}</div>
               <div className="mt-2 p-4 text-slate-300 text-lg">{desc}</div>
               <p className="text-center pt-4 text-slate-300	font-medium	text-xl	">Tech Stack: {techStack}</p>
