@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/sudhistkumar.github.io/static/css/main.d5a8956b.css",
-    "main.js": "/sudhistkumar.github.io/static/js/main.acfc5f13.js",
+    "main.js": "/sudhistkumar.github.io/static/js/main.854af546.js",
     "static/media/myntra.png": "/sudhistkumar.github.io/static/media/myntra.a9fd115d46a3877d6ea5.png",
     "static/media/olx.png": "/sudhistkumar.github.io/static/media/olx.8250309b642f9de7f988.png",
-    "static/media/SUDHIST.pdf": "/sudhistkumar.github.io/static/media/SUDHIST.f1ed40a0765342082eb7.pdf",
+    "static/media/SUDHIST.pdf": "/sudhistkumar.github.io/static/media/SUDHIST.fd15f2597bdea7d7d4c9.pdf",
     "static/media/react1.png": "/sudhistkumar.github.io/static/media/react1.0cf951a69d8e58f83f9d.png",
     "static/media/pic.jpg": "/sudhistkumar.github.io/static/media/pic.3efc9ac8fad6600cc90c.jpg",
     "static/media/maven.jpg": "/sudhistkumar.github.io/static/media/maven.99ab4cf4db5b7805cc19.jpg",
@@ -15,10 +15,10 @@
     "static/media/java.png": "/sudhistkumar.github.io/static/media/java.6c64373d3b7415758078.png",
     "index.html": "/sudhistkumar.github.io/index.html",
     "main.d5a8956b.css.map": "/sudhistkumar.github.io/static/css/main.d5a8956b.css.map",
-    "main.acfc5f13.js.map": "/sudhistkumar.github.io/static/js/main.acfc5f13.js.map"
+    "main.854af546.js.map": "/sudhistkumar.github.io/static/js/main.854af546.js.map"
   },
   "entrypoints": [
     "static/css/main.d5a8956b.css",
-    "static/js/main.acfc5f13.js"
+    "static/js/main.854af546.js"
   ]
 }
