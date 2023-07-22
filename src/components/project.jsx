@@ -1,14 +1,14 @@
 import React from 'react'
 import Myntra from '../assets/myntra.png';
 import Olx from '../assets/olx.png';
-//import Video from '../assets/video.mp4';
+import Student from '../assets/student.png';
 
 const projects = [
     {
       id: 1,
       src: Myntra,
       title: "Myntra Clone",
-      techStack:"HTML|CSS|JavaScript",
+      techStack:"HTML | CSS | JavaScript",
       desc: "Fashntra is an E-Commerce brand bussines website funtioning in India where user can order fashion and lifestyle products and get deliver at doorstep",
       link: "https://dashing-monstera-1cd591.netlify.app/",
       repo: "https://github.com/ersudhist/-nauseating-fowl-3676",
@@ -17,23 +17,22 @@ const projects = [
       id: 2,
       src: Olx,
       title: "OLX Clone",
-      techStack:"HTML|CSS |JS",
+      techStack:"HTML | CSS | JavaScript",
       desc: "Free classifieds in India, Buy and Sell for free anywhere in India with RBS Online Classified Advertising.",
       link: "https://jocular-druid-6e03e3.netlify.app/",
       repo: "https://github.com/ersudhist/-composed-linen-9715",
     },
 
-    // {
-    //   id: 3,
-    //   src: Video,
-    //   title: "Automated Student Registration System",
-    //   techStack: "Java|JDBC|MySQL",
-    //   desc: "This is a console-based web service for Automated Student Registration System.",
-    //   link: "https://drive.google.com/drive/folders/1GXRCZEriYmCH2pyUrD9Kdv85yVZrBYaj?usp=sharing",
-    //   repo: "https://github.com/ersudhist/spotless-lunch-6777/tree/main/Automated-Student-Registration-System",
-    // },
+    {
+      id: 3,
+      src: Student,
+      title: "Automated Student Registration System",
+      techStack: "Java | JDBC | MySQL",
+      desc: "This is a backend project of Automated Student Registration System portal.This portal performs all the fundamental CRUD operations of a Student registration platform with user and admin validation at every step. This is an indidual project built in 5 days. ",
+      link: "https://drive.google.com/drive/folders/1GXRCZEriYmCH2pyUrD9Kdv85yVZrBYaj?usp=sharing",
+      repo: "https://github.com/ersudhist/spotless-lunch-6777/tree/main/Automated-Student-Registration-System",
+    },
     
-
   ];
   
 const Project = () => {
@@ -48,19 +47,11 @@ const Project = () => {
         <div className="grid sm:grid-cols-2 md:grid-cols-2 gap-8 px-12 sm:px-0">
           {projects.map(({ id, src, link, repo, title, desc, techStack }) => (
             <div key={id} className="shadow-md shadow-gray-600 bg-black rounded-lg">
-              {/* {src.endsWith('.mp4') ? (
-                <video
-                  src={src}
-                  className="rounded-md duration-200 hover:scale-105 h-60 w-full"
-                  controls
-                />
-              ) : ( */}
                 <img
                   src={src}
                   alt="projects"
                   className="rounded-md duration-200 hover:scale-105 h-60 w-full"
                 />
-             // )}
               <div className="text-2xl text-slate-300 text-center">{title}</div>
               <div className="mt-2 p-4 text-slate-300 text-lg">{desc}</div>
               <p className="text-center pt-4 text-slate-300	font-medium	text-xl	">Tech Stack: {techStack}</p>
