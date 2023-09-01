@@ -22,12 +22,10 @@ const Home = () => {
                 loop={Infinity}
                 wrapper="b"
                 steps={[
-                  "Frontend Developer",
-                  3000,
-                  "Backend Developer",
-                  3000,
-                  "Full Stack Developer",
-                  3000,
+                  "Java Backend Developer",
+                  4000,
+                  "Full Stack Web Developer",
+                  4000,
                 ]}
               />
             </h2>
@@ -36,9 +34,9 @@ const Home = () => {
               I'm Backend Developer specializing in working with relational databases 
               and using ORM frameworks like Hibernate for efficient data management and 
               persistence.. Currently I'm focused more on Backend
-              
             </p>
           </div>
+
           <div>
             <img
               src={Photo}
