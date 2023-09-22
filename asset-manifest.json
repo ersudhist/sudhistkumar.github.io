@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/sudhistkumar.github.io/static/css/main.d5a8956b.css",
-    "main.js": "/sudhistkumar.github.io/static/js/main.804e567b.js",
+    "main.js": "/sudhistkumar.github.io/static/js/main.d71a5e22.js",
     "static/media/Covid.png": "/sudhistkumar.github.io/static/media/Covid.8c930e695d728c597600.png",
     "static/media/myntra.png": "/sudhistkumar.github.io/static/media/myntra.a9fd115d46a3877d6ea5.png",
     "static/media/olx.png": "/sudhistkumar.github.io/static/media/olx.8250309b642f9de7f988.png",
-    "static/media/SUDHIST.pdf": "/sudhistkumar.github.io/static/media/SUDHIST.fd15f2597bdea7d7d4c9.pdf",
+    "static/media/Sudhist-Kumar-Resume.pdf": "/sudhistkumar.github.io/static/media/Sudhist-Kumar-Resume.fd15f2597bdea7d7d4c9.pdf",
     "static/media/Car.png": "/sudhistkumar.github.io/static/media/Car.7f3e10fc41837cf826cf.png",
     "static/media/pic.jpg": "/sudhistkumar.github.io/static/media/pic.3efc9ac8fad6600cc90c.jpg",
     "static/media/student.png": "/sudhistkumar.github.io/static/media/student.38f0d37a4dff67985a01.png",
@@ -16,10 +16,10 @@
     "static/media/java.png": "/sudhistkumar.github.io/static/media/java.6c64373d3b7415758078.png",
     "index.html": "/sudhistkumar.github.io/index.html",
     "main.d5a8956b.css.map": "/sudhistkumar.github.io/static/css/main.d5a8956b.css.map",
-    "main.804e567b.js.map": "/sudhistkumar.github.io/static/js/main.804e567b.js.map"
+    "main.d71a5e22.js.map": "/sudhistkumar.github.io/static/js/main.d71a5e22.js.map"
   },
   "entrypoints": [
     "static/css/main.d5a8956b.css",
-    "static/js/main.804e567b.js"
+    "static/js/main.d71a5e22.js"
   ]
 }
